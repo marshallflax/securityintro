@@ -1,0 +1,3 @@
+| Tool                  | What it does                                                             | What it doesn't do                   |
+|-----------------------+--------------------------------------------------------------------------+--------------------------------------|
+| Whole-disk encryption | protect against HD being removed from your PC and analyzed in another PC | protect your data when your PC is on |
